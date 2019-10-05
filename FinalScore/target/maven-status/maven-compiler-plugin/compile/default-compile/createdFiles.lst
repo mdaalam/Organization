@@ -1,0 +1,6 @@
+pageobject/FooterPage.class
+pageobject/Header.class
+api/FSBase.class
+pageobject/ProductPage.class
+pageobject/AccountPage.class
+pageobject/HomePage.class
