@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="55ec6d77-72b7-4fb5-b672-79fb6e7e8b87" name="Default Changelist" comment="" />
+    <list default="true" id="55ec6d77-72b7-4fb5-b672-79fb6e7e8b87" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/FinalScore/src/test/java/SignInTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/FinalScore/src/test/java/SignInTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinalScore/src/test/resources/TestRunner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/FinalScore/src/test/resources/TestRunner.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

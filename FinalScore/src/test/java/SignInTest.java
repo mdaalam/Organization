@@ -30,7 +30,7 @@ public class SignInTest extends FSBase {
     /*
      *  TestID004: User should be able to go to My Account page.
      */
-    @Test (priority = 2, enabled = true)
+    @Test (priority = 2, enabled = false)
     public void goToMyAccountPage() throws Exception {
         signInToFinalScore();
         //clickByXpath(AccountPage.ACCOUNT_DROP_DOWN_MENU);

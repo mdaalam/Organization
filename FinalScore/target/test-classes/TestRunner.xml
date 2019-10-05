@@ -15,7 +15,7 @@
             <!--&lt;!&ndash;<class name="SignupTest"/>-->
             <class name="SignInTest"/>
 <!--            <class name="SignOutTest"/>-->
-            <class name="SearchTest"/>
+<!--            <class name="SearchTest"/>-->
 
 
 
